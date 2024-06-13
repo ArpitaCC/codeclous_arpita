@@ -1,2 +1,2 @@
 # codeclous_arpita
-This is a a public repository
+This is  a public repository
